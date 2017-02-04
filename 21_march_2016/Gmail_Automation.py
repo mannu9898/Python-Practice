@@ -5,7 +5,6 @@ from selenium.webdriver.common.keys import Keys
 user_name = input('Enter the User Name:  ')
 pass_word = input('Enter the password:   ')
 
-
 browser = webdriver.Firefox()
 browser.get('http://www.gmail.com')
 
