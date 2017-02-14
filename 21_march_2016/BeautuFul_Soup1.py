@@ -11,6 +11,6 @@ def getPrice(producturl):
 
 
 
-price = getPrice('http://www.xvideos.com/video2748929/hot_playful_brunette_babe_dillion_harper_tries_anal_for_the_first_time#_tabComments')
+price = getPrice('element')
 
 print('The price is '+price)
